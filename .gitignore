@@ -1,2 +1,5 @@
 /download
 .DS_Store
+snippets.py
+dataset.csv
+data.json
